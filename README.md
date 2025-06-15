@@ -40,6 +40,7 @@
 - **ImGui**
 - **stb_image**
 
+### 请参考CmakeList放置第三方库，自行修改CmakeList亦可
 
 ### 加载自定义模型
 将 OBJ 文件放在 `models/` 目录中，并在 `main.cpp` 中修改模型路径：
