@@ -1,6 +1,6 @@
-# Vulkan PBR 引擎
+# Vulkan PBR 渲染器
 
-一个基于 Vulkan API 构建的 3D 渲染引擎，实现了基础PBR、天空盒生成和实时性能监控功能。
+一个基于 Vulkan API 构建的 3D 渲染器，实现了基础PBR、天空盒生成和实时性能监控功能。
 
 ## 特性
 
